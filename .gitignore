@@ -1,0 +1,4 @@
+/build/
+/.mxproject
+/MDK-ARM/oled_arcade/
+*.uvguix.*
